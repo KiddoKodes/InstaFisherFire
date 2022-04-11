@@ -1,5 +1,5 @@
 # InstaFisherFire
-### A firebase based instagram phishing app.
+### A firebase based instagram account phishing app.
 
 
 THIS IS ONLY FOR EDUCATIONAL PURPOSE. MISUSE OF THIS IS STRICTLY PROHIBITED
